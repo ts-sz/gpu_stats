@@ -20,7 +20,12 @@ All stats grab with **nvidia-smi**
 
 _Hash RATE is ONLY if you use HIVEOS [ https://hiveos.farm ]_
 
-Add to your cron for push automatically every minute
+Push `gpu_stats.cron` in your crontab with `sudo cp gpu_stats.cron /etc/cron.d/gpu_stats` for execute every minute
+
+Edit `gpu_stats.sh` 
+`vim cp gpu_stats.sh`
+and copy to your `/usr/local/bin/`
+`sudo cp gpu_stats.sh /usr/local/bin/ && chmod +x /usr/local/bin/gpu_stats.sh `
 
 
 ---
