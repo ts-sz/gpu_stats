@@ -22,6 +22,5 @@ _Hash RATE is ONLY if you use HIVEOS [ https://hiveos.farm ]_
 
 ---
 souces:
-http://xcat-docs.readthedocs.io/en/stable/advanced/gpu/nvidia/management.html
-
-http://cryptomining-blog.com/tag/nvidia-smi/
+* http://xcat-docs.readthedocs.io/en/stable/advanced/gpu/nvidia/management.html
+* http://cryptomining-blog.com/tag/nvidia-smi/
