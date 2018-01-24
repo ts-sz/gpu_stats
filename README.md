@@ -16,9 +16,12 @@ All stats grab with **nvidia-smi**
 
 
 #### fun speed
-# nvidia-smi -i 0 --query-gpu=fan.speed --format=csv,noheader
+`nvidia-smi -i 0 --query-gpu=fan.speed --format=csv,noheader`
 
 _Hash RATE is ONLY if you use HIVEOS [ https://hiveos.farm ]_
+
+Add to your cron for push automatically every minute
+
 
 ---
 souces:
